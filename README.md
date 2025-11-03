@@ -91,6 +91,11 @@ En términos de tiendas:
 - **Tienda 3 y 4:** enfocadas en segmentos más económicos o con menor cobertura.
 
 ---
-### Top ventas por ubicación
+### 📍 Ubicaciones de ventas - Tienda 1
+![Mapa de ventas Tienda1](docs/Mapa_de_ventas_Tienda1.png)
+#### [Ver gráfico interactivo](https://yaramirezte.github.io/Python-para-Data-Science-Challenge-AluraStore/mapa_tienda1.html)
+
+---
+### 📍Top ventas por ubicación
 ![Mapa de ventas](docs/Mapa_de_ventas_por_ubicación_y_tienda.png)
-[Ver gráfico interactivo](https://yaramirezte.github.io/Python-para-Data-Science-Challenge-AluraStore/grafico_ventas_tiendas.html)
+#### [Ver gráfico interactivo](https://yaramirezte.github.io/Python-para-Data-Science-Challenge-AluraStore/grafico_ventas_tiendas.html)
