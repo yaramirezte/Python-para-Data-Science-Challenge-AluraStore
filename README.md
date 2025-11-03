@@ -91,6 +91,6 @@ En términos de tiendas:
 - **Tienda 3 y 4:** enfocadas en segmentos más económicos o con menor cobertura.
 
 ---
-### Mapa de mayores ventas por tienda
+### Top ventas por ubicación
 ![Mapa de ventas](docs/Mapa_de_ventas_por_ubicación_y_tienda.png)
 [Ver gráfico interactivo](https://yaramirezte.github.io/Python-para-Data-Science-Challenge-AluraStore/grafico_ventas_tiendas.html)
