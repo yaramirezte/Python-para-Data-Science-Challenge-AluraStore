@@ -51,6 +51,21 @@ Python-para-Data-Science-Challenge-AluraStore/
 
 ---
 
+## 🚀 Cómo ejecutar este proyecto
+
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/yaramirezte/Python-para-Data-Science-Challenge-AluraStore.git
+
+```
+2. Abrir el Notebook:
+  ```bash
+jupyter notebook AluraStoreLatam.ipynb
+
+```
+3. Revisar celdas de análisis y visualizaciones.
+
+---
 ## 📊 Visualizaciones Clave
 
 ### Ventas por Tienda
